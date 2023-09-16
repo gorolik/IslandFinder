@@ -1,0 +1,13 @@
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\bin\Debug\netcoreapp3.1\IslandFinder.exe
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\bin\Debug\netcoreapp3.1\IslandFinder.deps.json
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\bin\Debug\netcoreapp3.1\IslandFinder.runtimeconfig.json
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\bin\Debug\netcoreapp3.1\IslandFinder.runtimeconfig.dev.json
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\bin\Debug\netcoreapp3.1\IslandFinder.dll
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\bin\Debug\netcoreapp3.1\IslandFinder.pdb
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\obj\Debug\netcoreapp3.1\IslandFinder.csprojAssemblyReference.cache
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\obj\Debug\netcoreapp3.1\IslandFinder.AssemblyInfoInputs.cache
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\obj\Debug\netcoreapp3.1\IslandFinder.AssemblyInfo.cs
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\obj\Debug\netcoreapp3.1\IslandFinder.csproj.CoreCompileInputs.cache
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\obj\Debug\netcoreapp3.1\IslandFinder.dll
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\obj\Debug\netcoreapp3.1\IslandFinder.pdb
+E:\GlobalProgectsCS\Training\IslandFinder\IslandFinder\obj\Debug\netcoreapp3.1\IslandFinder.genruntimeconfig.cache
